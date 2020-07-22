@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_01tran_proxyFactoryBean/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_02tran_transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_03tran_aspectjAOP/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
