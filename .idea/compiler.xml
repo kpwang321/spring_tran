@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="proxy" />
         <module name="spring_01tran_proxyFactoryBean" />
         <module name="spring_02tran_transactional" />
         <module name="spring_03tran_aspectjAOP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="proxy" target="1.5" />
       <module name="spring_01tran_proxyFactoryBean" target="1.5" />
       <module name="spring_02tran_transactional" target="1.5" />
       <module name="spring_03tran_aspectjAOP" target="1.5" />

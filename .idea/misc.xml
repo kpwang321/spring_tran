@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/spring_01tran_proxyFactoryBean/pom.xml" />
         <option value="$PROJECT_DIR$/spring_02tran_transactional/pom.xml" />
         <option value="$PROJECT_DIR$/spring_03tran_aspectjAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy/pom.xml" />
       </list>
     </option>
   </component>
